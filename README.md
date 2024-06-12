@@ -1,5 +1,6 @@
 ### Flappy Sicong
-http://hejie.nigeerhuo.com/sicong/index.html
+
+https://ajlovechina.github.io/flappy-sicong/
 
 ![ScreenShot](https://raw.github.com/AJLoveChina/flappy-sicong/master/assets/snapshoot.jpg)
 
